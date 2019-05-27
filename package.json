@@ -1,6 +1,6 @@
 {
   "name": "mike-thingy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "awesome react component",
   "main": "index.js",
   "scripts": {
